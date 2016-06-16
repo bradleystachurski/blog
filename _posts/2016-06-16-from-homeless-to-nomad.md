@@ -14,7 +14,7 @@ How did my life come to this? Easy answer. I worked in finance and realized that
 
 That might have been the happiest moment of my life. At that moment I knew that I was no longer tied to a job I hate. I was no longer tied to a life that I hate. I was no longer going to have to face the decision to quit after being handed over a material sum of money when bonuses were paid out. I was free. The following Monday, December 22, I officially quit and began a new journey in my life. I instantly went from miserable to happy. The walk down the stairs to grab my bike at 440 S. LaSalle was pure joy. I rarely take a selfie, but this was a special occasion.
 
-![insert selfie]({{ site.url }}/assets/test.jpeg)
+![insert selfie](/assets/test.jpeg)
 
 Since that day, I’ve lived an entirely different life. I started from scratch and began asking questions. What does it mean to live a meaningful life? How do you fully experience the life you live? I started adding little habits to my days. It started with journaling and reading, then I added meditating, yoga, and many more. These small habits have amounted to huge changes. I’m an entirely different person than when I quit.
 
